@@ -1,0 +1,19 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input{
+    width: 300px;
+    height: 20px;
+    background-color: rgba(247, 246, 246, 0.795);
+}
+body{
+    background-color: rgb(193, 203, 212);
+}
+input:focus{
+    outline: none;
+}
+button:focus{
+    outline: none;
+}
